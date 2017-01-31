@@ -21692,7 +21692,7 @@
 	          _react2.default.createElement(
 	            'h1',
 	            { className: 'text-center' },
-	            'FCC Recipe Box'
+	            'Stacy\'s Recipe Box'
 	          )
 	        ),
 	        _react2.default.createElement(
@@ -21740,11 +21740,7 @@
 	          _react2.default.createElement(
 	            'p',
 	            { className: 'footer text-center lead' },
-	            _react2.default.createElement(
-	              'a',
-	              { href: 'http://odran037.io', target: '_blank' },
-	              'odran037.io'
-	            )
+	            'I love you!'
 	          )
 	        )
 	      );

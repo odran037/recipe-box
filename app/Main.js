@@ -47,7 +47,7 @@ export default class Main extends React.Component {
     return (
       <Grid>
         <Jumbotron>
-          <h1 className="text-center">FCC Recipe Box</h1>
+          <h1 className="text-center">Stacy's Recipe Box</h1>
         </Jumbotron>
         <RecipeModal save={this.save.bind(this)}>
           <Button className="new-recipe" bsStyle="success">Add New Recipe</Button>
