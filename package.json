@@ -1,0 +1,32 @@
+{
+  "name": "recipe-box",
+  "version": "1.0.0",
+  "description": "Recipe Box",
+  "scripts": {
+    "start": "webpack-dev-server --inline --content-base ."
+  },
+  "author": "Leonardo Prates",
+  "license": "ISC",
+  "dependencies": {
+    "multer": "^1.3.0",
+    "react": "^15.4.2",
+    "react-bootstrap": "^0.30.7",
+    "react-dom": "^15.4.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/odran037/recipe-box.git"
+  },
+  "bugs": {
+    "url": "https://github.com/odran037/recipe-box/issues"
+  },
+  "homepage": "http://odran037.io/recipe-box",
+  "devDependencies": {
+    "babel-core": "^6.22.1",
+    "babel-loader": "^6.2.10",
+    "babel-preset-es2015": "^6.22.0",
+    "babel-preset-react": "^6.22.0",
+    "webpack": "^1.14.0",
+    "webpack-dev-server": "^1.16.2"
+  }
+}
