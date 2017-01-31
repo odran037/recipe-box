@@ -70,7 +70,7 @@ export default class Main extends React.Component {
         </Accordion>
         <Well bsSize="small">
           <p className="footer text-center lead">
-            <a href="http://odran037.io" target="_blank">odran037.io</a>
+            I love you!
           </p>
         </Well>
       </Grid>
